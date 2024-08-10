@@ -24,8 +24,6 @@
     border-radius: 100%;
     display: flex;
     position: fixed;
-    right: 500px;
-    top: 350px;
 }
 
 .logos img:hover {
@@ -40,8 +38,7 @@
     border-radius: 100%;
     display: flex;
     position: fixed;
-    right: 455px;
-    top: 350px;
+    right: 25px;
 }
 
 .logos2 img:hover {
