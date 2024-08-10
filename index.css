@@ -68,3 +68,23 @@ h1 {
     text-decoration: underline;
     text-align: center;
 }
+
+.mysister img {
+    width: 140px;
+    border-radius: 100%;
+    display: flex;
+    position:relative;
+    top: 55px;
+   
+
+
+}
+
+.mysister label {
+    display: flex;
+    top: 450px;
+}
+
+.mysister img:hover {
+    width: 160px;
+}
